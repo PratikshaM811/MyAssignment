@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.form1 .ant-input ,
+.form1 .ant-select-selection,
+.form1 .ant-time-picker-input
+
+ {
+  border: unset;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.65);
+  border-radius: unset;
+}
+
+/* .form1 .ant-form-item-control .has-feedback .has-success .anticon .anticon-question-circle-o
+{
+  margin-left: -20px;
+} */
+.form1 .ant-form-item-control .has-feedback .has-success .flex1{
+  display: flex;
+  width : 400px;
+
+}
+
+/* .form1 .ant-form-item-children .flex{
+  width : 200px;
+} */
+ .form1 .picker.ant-time-picker .ant-time-picker-input{
+   width:200px;
+ }
+ /* .fomr1 .ck .ck-editor__main{
+   width: 400px;
+ } */
+/* .ck-blurred .ck .ck-content .ck-editor__editable .ck-rounded-corners .ck-editor__editable_inline
+{
+  height:300px;
+} */
+.form1 .ck-editor__main .ck-content{
+height:300px
+}
