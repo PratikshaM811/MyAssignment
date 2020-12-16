@@ -190,19 +190,7 @@ console.log("timezone",e)
         <Divider plain></Divider>
         <Row>
           <Col span={6}>
- <h4>All Data :</h4>
-1.title = {this.state.title}<br/>
-2.timezone={this.state.timezone}<br/>
-3.onlineLink:{this.state.onlineLink}<br/>
-4.event={this.state.event}<br/>
-5.category={this.state.category}<br/>
-6.regSite={this.state.RegSite}<br/>
-7.switch={this.state.vEvent}<br/>
-8:endDate={this.state.EndDate} {this.state.EndTime}<br/>
-9.StartDate={this.state.StartDate} {this.state.StartTime}<br/>
-10.summery={this.state.summery}<br/>
-11.imageUrl={this.state.imageUrl}
-
+ 
           </Col>
           <Col span={12}>
             <div>
